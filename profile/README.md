@@ -61,7 +61,7 @@
 
 ### 프로젝트 소개
 
-**인스타그램 클론 코딩**은 `스프링부트`와 `리액트`를 기반으로 이미지 기반 소셜 미디어 **인스타그램** 서비스를 하나하나 구현해가는 프로젝트입니다.
+**인스타그램 클론 코딩**은 `Spring Boot`와 `React`를 기반으로 이미지 기반 소셜 미디어 **인스타그램** 서비스를 하나하나 구현해가는 프로젝트입니다.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -185,6 +185,7 @@
         <img src="https://avatars.githubusercontent.com/u/58378676?v=4" width="110px;" alt=""/><br />
         <sub><b>최다훈</b></sub></a><br />
         <sub><b>🧀Back-end</b></sub></a><br />
+	<sub><b></b></sub></a><br />
         <a href="https://github.com/bluetifulc" title="Code">💻</a>
     </td>
     <td align="center">
@@ -192,6 +193,7 @@
         <img src="https://avatars.githubusercontent.com/u/70274947?v=4" width="110px;" alt=""/><br />
         <sub><b>한수화</b></sub></a><br />
         <sub><b>☕Front-end</b></sub></a><br />  
+	<sub><b></b></sub></a><br />
         <a href="https://github.com/live-small" title="Code">💻</a>
     </td>
     <td align="center">
@@ -199,6 +201,7 @@
         <img src="https://avatars.githubusercontent.com/u/78777345?v=4" width="110px;" alt=""/><br />
         <sub><b>김영인</b></sub></a><br />
         <sub><b>🍖Front-end</b></sub></a><br />    
+	<sub><b></b></sub></a><br />
         <a href="https://github.com/kimyoungyin" title="Code">💻</a>
     </td>
   </tr>
