@@ -133,7 +133,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### AWS Public Cloud Architecture
-![image](https://user-images.githubusercontent.com/68049320/190657447-748ca5f7-c643-4caa-ae3a-188dd4e3a8ae.png)
+![image](https://user-images.githubusercontent.com/68049320/193588720-04e11485-4d4c-4548-b747-2cfec3d264d1.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
