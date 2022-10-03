@@ -162,7 +162,7 @@
 	<tr><th rowspan="3">👨‍👩‍👦‍👦Collaboration</th><td>Api Test</td><td>Postman</td></tr>
 	<tr><td>Communication</td><td>Notion, Google Meet</td></tr>
 	<tr><td>Version Control</td><td>Github</td></tr>
-	<tr><th>🛠AWS Public Cloud Service</th><td colspan="2">EC2, RDS, S3, ElastiCache, VPC, Internet gateway, NAT gateway, LB, ALB, Route 53, Certificate Manager </td></tr>
+	<tr><th>🛠AWS Public Cloud Service</th><td colspan="2">EC2, RDS, S3, ElastiCache, VPC, Internet gateway, NAT gateway, NLB, ALB, Route 53, Certificate Manager </td></tr>
 </table>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
