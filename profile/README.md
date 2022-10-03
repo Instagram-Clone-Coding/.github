@@ -126,7 +126,8 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### IA
-![인스타IA](https://user-images.githubusercontent.com/68049320/190657661-eac81a9f-1716-46bb-849e-9c763cc31496.png)
+![인스타IA](https://user-images.githubusercontent.com/70274947/193595214-ba2a402d-4ff3-421a-8216-ca732ffad734.png)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
