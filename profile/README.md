@@ -83,7 +83,9 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### 시연 영상
+### 시연 영상 (추가 예정)
+> 현재 다양한 시연 영상을 만들고 있는 중입니다. 더 다양한 기능을 직접 체험해 보시려면 배포 사이트에 접속해 보세요!😊
+
 <details>
   <summary><strong>로그인</strong></summary>
   
