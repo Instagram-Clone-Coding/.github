@@ -31,9 +31,8 @@
   <h3 align="center">Instagram-Clone-Project</h3>
 
   <p align="center">
-    인스타그램 클론코딩 프로젝트 소개입니다.
     <br />
-    <a href="http://ec2-3-36-185-121.ap-northeast-2.compute.amazonaws.com/"><h3>👉배포 사이트 바로가기👈</h3></a>
+    <h3><a href="http://ec2-3-36-185-121.ap-northeast-2.compute.amazonaws.com/">👉배포 사이트 바로가기👈</a></h3>
     <a href="https://github.com/Instagram-Clone-Coding"><strong>1. Explore the Organization</strong></a><br>
     <a href="https://github.com/Instagram-Clone-Coding/React_instagram_clone"><strong>2. Explore Front-end Repository</strong></a><br>
     <a href="https://github.com/Instagram-Clone-Coding/Spring_instagram-clone"><strong>3. Explore Back-end Repository</strong></a><br>
