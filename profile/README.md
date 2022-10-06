@@ -31,7 +31,6 @@
   <h3 align="center">Instagram-Clone-Project</h3>
 
   <p align="center">
-    <br />
     <h3><a href="http://ec2-3-36-185-121.ap-northeast-2.compute.amazonaws.com/">👉배포 사이트 바로가기👈</a></h3>
     <a href="https://github.com/Instagram-Clone-Coding"><strong>1. Explore the Organization</strong></a><br>
     <a href="https://github.com/Instagram-Clone-Coding/React_instagram_clone"><strong>2. Explore Front-end Repository</strong></a><br>
