@@ -156,7 +156,7 @@
 	<tr><td>Authorization</td><td>Spring Security, JWT</td></tr>
 	<tr><td>Messaging</td><td>WebSocket, STOMP</td></tr>
 	<tr><td>API Documentation</td><td>Swagger</td></tr>
-	<tr><td>Database</td><td>MariaDB, H2, Redis, GeoIP</td></tr>
+	<tr><td>Database</td><td>MySQL, H2, Redis, GeoIP</td></tr>
 	<tr><td>Test</td><td>JUnit5, Mockito</td></tr>
 	<tr><td>Open API</td><td>Kakao Map API</td></tr>
 	<tr><th rowspan="3">👨‍👩‍👦‍👦Collaboration</th><td>Api Test</td><td>Postman</td></tr>
